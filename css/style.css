@@ -126,7 +126,7 @@ main .rectangle {
   position: absolute;
   letter-spacing: 4px;
   font-size: 37px;
-  color: rgb(255, 0, 0);
+  color: black;
   z-index: 3;
 }
 
@@ -215,14 +215,7 @@ h1 span {
 }
 
 .fa-instagram:hover {
-  background: linear-gradient(
-    45deg,
-    #f09433 0%,
-    #e6683c 25%,
-    #dc2743 50%,
-    #cc2366 75%,
-    #bc1888 100%
-  );
+  background: black;
   color: white;
   border: none;
 }
@@ -233,9 +226,9 @@ h1 span {
 }
 
 .fa-facebook:hover {
+  background: black;
   color: white;
   border: none;
-  background: #3b5998;
 }
 
 .fa-twitter {
@@ -244,7 +237,7 @@ h1 span {
 }
 
 .fa-twitter:hover {
-  background: #55acee;
+  background: black;
   color: white;
   border: none;
 }
@@ -255,7 +248,7 @@ h1 span {
 }
 
 .fa-whatsapp:hover {
-  background: #075e54;
+  background: black;
   color: white;
   border: none;
 }
