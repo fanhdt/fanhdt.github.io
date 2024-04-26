@@ -126,7 +126,7 @@ main .rectangle {
   position: absolute;
   letter-spacing: 4px;
   font-size: 37px;
-  color: black;
+  color: rgb(255, 0, 0);
   z-index: 3;
 }
 
